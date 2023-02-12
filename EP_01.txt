@@ -1,1 +1,11 @@
 
+We will begin a new series of videos covering the MERN Tech Stack in this one.
+About the MERN tech stack will be covered. Describe MERN. how it functions What is MERN? every aspect of this course.
+
+But in this course's first episode, we'll discuss the course's description and what we'll be learning there. what the schedule for this course will be like, and all the other information.
+
+Please note that this course is only intended for individuals who are complete beginners and those who know very little about MERN but have never worked on it.
+
+This course's goal is to teach you all the fundamentals of this tech stack and get you ready for more advanced study of it.
+
+Youtube Video : https://youtu.be/6GGt5Sffais
